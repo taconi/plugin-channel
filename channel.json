@@ -1,4 +1,7 @@
 [
+  // darken plugin
+  "https://raw.githubusercontent.com/informeai/darken/main/repo.json",
+
   // delve plugin
   "https://raw.githubusercontent.com/serge-v/micro-delve/main/repo.json",
 
