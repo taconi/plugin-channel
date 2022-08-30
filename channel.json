@@ -1,4 +1,7 @@
 [
+  // typescript linter
+  "https://raw.githubusercontent.com/sebkolind/micro-linter-typescript/master/repo.json",
+
   // acme editing plugin
   "https://raw.githubusercontent.com/xxuejie/micro-acme/main/repo.json",
 
