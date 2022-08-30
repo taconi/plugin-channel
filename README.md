@@ -6,6 +6,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `splitterm` | Run a file or a selection of an inerpreted language within a new terminal window. | https://github.com/lukhof/splitterm | :heavy_check_mark: |
 | `ag` | This plugin provides the ability to search with "ag" (aka the_silver_searcher). | https://github.com/sebkolind/micro-ag | :heavy_check_mark: |
 | `prettier` | This plugin provides the ability to format your code with Prettier. | https://github.com/sebkolind/micro-prettier | :heavy_check_mark: |
 | `lintertypescript` | Ability to lint your Typescript (.ts & .tsx) files with tsc. | https://github.com/sebkolind/micro-linter-typescript | :heavy_check_mark: |

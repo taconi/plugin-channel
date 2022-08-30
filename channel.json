@@ -1,4 +1,7 @@
 [
+  // splitterm plugin
+  "https://raw.githubusercontent.com/lukhof/splitterm/main/repo.json",
+
   // ag plugin
   "https://raw.githubusercontent.com/sebkolind/micro-ag/master/repo.json",
 
