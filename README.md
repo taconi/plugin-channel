@@ -6,6 +6,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `emacs_select` | Emacs-style selection for Micro | https://github.com/kesslern/micro-emacs-select | :heavy_check_mark: |
 | `darken` | Plugin with colorscheme of micro editor. | https://github.com/informeai/darken | :heavy_check_mark: |
 | `delve` | Integrates golang delve debugger | https://github.com/serge-v/micro-delve | :heavy_check_mark: |
 | `bookmarks` | Support for adding bookmarks while editing. | https://github.com/davidalbertainley/micro-bookmarks-plugin | :x: |
