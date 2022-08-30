@@ -1,4 +1,7 @@
 [
+  // yosyslint plugin
+  "https://raw.githubusercontent.com/MuratovAS/micro-yosyslint/main/repo.json",
+
   // fzfinder plugin
   "https://raw.githubusercontent.com/MuratovAS/micro-fzfinder/main/repo.json",
 
