@@ -1,4 +1,7 @@
 [
+  // sunny-day colorscheme
+  "https://raw.githubusercontent.com/dwwmmn/micro-sunny-day/master/repo.json",
+
   // Comment plugin
   "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
 
