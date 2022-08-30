@@ -6,6 +6,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `autosave` | This plugin will let you automatically save on focus lost, or 5 seconds after your last edit. | https://github.com/transmutrix/micro-plugin-autosave | :x: |
 | `mcompiler` | Simple plugin to compile code | https://github.com/joselbr2099/mcompiler |:x: |
 | `sunny-day` | Port of the Emacs theme by Martin Haesler | https://github.com/dwwmmn/micro-sunny-day | :heavy_check_mark: |
 | `ctags`         | This plugin adds (rudimentary) support for reading/parsing a ctags file. | https://github.com/codezapper/micro-ctags-plugin | :x:  |

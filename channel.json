@@ -1,4 +1,7 @@
 [
+  // autosave plugin
+  "https://raw.githubusercontent.com/pennie-quinn/micro-plugin-autosave/master/repo.json",
+
   // mcompiler plugin
   "https://raw.githubusercontent.com/Odyssey2247/mcompiler/master/repo.json",
 
