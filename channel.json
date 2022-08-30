@@ -1,4 +1,7 @@
 [
+  // delve plugin
+  "https://raw.githubusercontent.com/serge-v/micro-delve/main/repo.json",
+
   // Bookmarks plugin
   "https://raw.githubusercontent.com/davidalbertainley/micro-bookmarks-plugin/master/repo.json",
 
@@ -64,25 +67,25 @@
 
   // JoinLines plugin
   "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json",
-  
+
   // Quoter plugin
   "https://raw.githubusercontent.com/deusnefum/micro-quoter/master/repo.json",
-  
+
   // Bounce plugin
   "https://raw.githubusercontent.com/deusnefum/micro-bounce/master/repo.json",
 
   // zigfmt plugin
   "https://raw.githubusercontent.com/squeek502/micro-zigfmt/master/repo.json",
-  
+
   // Aspell plugin
   "https://raw.githubusercontent.com/priner/micro-aspell-plugin/master/repo.json",
-  
+
   // jlabbrev plugin
   "https://raw.githubusercontent.com/MasFlam/jlabbrev/master/repo.json",
 
   // wakatime plugin
   "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
-  
+
   // nord colorschemes
   "https://raw.githubusercontent.com/KiranWells/micro-nord-tc-colors/main/repo.json",
 
