@@ -6,6 +6,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `nelua` | Nelua support for Micro text editor | https://github.com/leapofazzam123/micro-nelua-plugin | :heavy_check_mark: |
 | `emacs_select` | Emacs-style selection for Micro | https://github.com/kesslern/micro-emacs-select | :heavy_check_mark: |
 | `darken` | Plugin with colorscheme of micro editor. | https://github.com/informeai/darken | :heavy_check_mark: |
 | `delve` | Integrates golang delve debugger | https://github.com/serge-v/micro-delve | :heavy_check_mark: |

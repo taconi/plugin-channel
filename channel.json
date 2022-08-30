@@ -1,4 +1,7 @@
 [
+  // Nelua plugin
+  "https://raw.githubusercontent.com/leapofazzam123/micro-nelua-plugin/main/repo.json",
+
   // emacs_select plugin
   "https://raw.githubusercontent.com/kesslern/micro-emacs-select/main/repo.json",
 
