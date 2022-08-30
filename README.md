@@ -6,6 +6,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `sunny-day` | Port of the Emacs theme by Martin Haesler | https://github.com/dwwmmn/micro-sunny-day |
 | `ctags`         | This plugin adds (rudimentary) support for reading/parsing a ctags file. | https://github.com/codezapper/micro-ctags-plugin | :x:  |
 | `comment`       | Plugin to auto comment or uncomment lines               | https://github.com/micro-editor/comment-plugin             | :heavy_check_mark: (provided by default) |
 | `snippets`      | Provides snippets functionality                         | https://github.com/micro-editor/updated-plugins/tree/master/micro-snippets-plugin         | :heavy_check_mark:                       |
