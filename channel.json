@@ -1,4 +1,7 @@
 [
+  // acme editing plugin
+  "https://raw.githubusercontent.com/xxuejie/micro-acme/main/repo.json",
+
   // Nelua plugin
   "https://raw.githubusercontent.com/leapofazzam123/micro-nelua-plugin/main/repo.json",
 
