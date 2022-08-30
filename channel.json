@@ -1,4 +1,7 @@
 [
+  // ag plugin
+  "https://raw.githubusercontent.com/sebkolind/micro-ag/master/repo.json",
+
   // prettier plugin
   "https://raw.githubusercontent.com/sebkolind/micro-prettier/master/repo.json",
 
