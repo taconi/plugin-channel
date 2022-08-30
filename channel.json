@@ -1,4 +1,7 @@
 [
+  // Exec plugin
+  "https://raw.githubusercontent.com/ibotdeu/exec-plugin/master/repo.json",
+
   // autosave plugin
   "https://raw.githubusercontent.com/pennie-quinn/micro-plugin-autosave/master/repo.json",
 
