@@ -1,4 +1,7 @@
 [
+  // Bookmarks plugin
+  "https://raw.githubusercontent.com/davidalbertainley/micro-bookmarks-plugin/master/repo.json",
+
   // Exec plugin
   "https://raw.githubusercontent.com/ibotdeu/exec-plugin/master/repo.json",
 

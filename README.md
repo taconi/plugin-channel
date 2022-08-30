@@ -6,6 +6,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `bookmarks` | Support for adding bookmarks while editing. | https://github.com/davidalbertainley/micro-bookmarks-plugin | :x: |
 | `exec` | Run the code you edit and show the results directly in the editor. | https://github.com/ibotdeu/exec-plugin | :x: |
 | `autosave` | This plugin will let you automatically save on focus lost, or 5 seconds after your last edit. | https://github.com/transmutrix/micro-plugin-autosave | :x: |
 | `mcompiler` | Simple plugin to compile code | https://github.com/joselbr2099/mcompiler |:x: |
