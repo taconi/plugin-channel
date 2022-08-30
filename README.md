@@ -1,6 +1,16 @@
-# Micro Official Plugin Channel
+# Micro Plugin Channel
 
-This repository contains the 'channel.json' file which lists all official micro plugins. This is where the editor looks to search for plugins to install.
+This repository contains the 'channel.json' file which lists all micro plugins. This is where the editor looks to search for plugins to install.
+
+## Settings
+
+Add this repository in ~/.config/settings.json
+```json
+"pluginchannels": [
+    "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json",
+    "https://gitlab.com/taconi/plugin-channel/-/raw/main/channel.json"
+]
+```
 
 ## Plugins
 
@@ -57,6 +67,15 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 ## Adding your own plugin
 
-To add your own plugin, create a `repo.json` file containing all the metadata information for your plugin. See the Go plugin [repo.json](https://github.com/micro-editor/go-plugin/blob/master/repo.json) file as an example.
+And add a name, a short description, the link the repository and mark if is compatible with micro 2.0. See the Go plugin as an example.
 
-Then you can open a pull request which adds the link to that file to the `channel.json` file in this repo.
+| Plugin | Description | Link | 2.0 Support |
+| ------ | ----------- | ---- | ----------- |
+| `go` | Provides `gofmt` and `goimports` support for Go files | https://github.com/micro-editor/go-plugin | :heavy_check_mark: |
+
+To add your own plugin, create a `repo.json` file containing all the metadata information for your plugin. See the Go plugin [repo.json](https://github.com/micro-editor/go-plugin/blob/master/repo.json) file as an example.
+Then you can open a pull request which adds the link to that file to the `channel.json` file in this repo. See the Go plugin as an example.
+```json
+  // Go plugin
+  "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
+```
