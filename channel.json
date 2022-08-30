@@ -1,4 +1,7 @@
 [
+  // mcompiler plugin
+  "https://raw.githubusercontent.com/Odyssey2247/mcompiler/master/repo.json",
+
   // sunny-day colorscheme
   "https://raw.githubusercontent.com/dwwmmn/micro-sunny-day/master/repo.json",
 
