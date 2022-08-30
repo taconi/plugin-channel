@@ -1,4 +1,7 @@
 [
+  // prettier plugin
+  "https://raw.githubusercontent.com/sebkolind/micro-prettier/master/repo.json",
+
   // typescript linter
   "https://raw.githubusercontent.com/sebkolind/micro-linter-typescript/master/repo.json",
 
