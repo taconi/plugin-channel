@@ -6,6 +6,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `prettier` | This plugin provides the ability to format your code with Prettier. | https://github.com/sebkolind/micro-prettier | :heavy_check_mark: |
 | `lintertypescript` | Ability to lint your Typescript (.ts & .tsx) files with tsc. | https://github.com/sebkolind/micro-linter-typescript | :heavy_check_mark: |
 | `acme` | An acme style editing plugin for the micro editor. | https://github.com/xxuejie/micro-acme | :heavy_check_mark: |
 | `nelua` | Nelua support for Micro text editor | https://github.com/leapofazzam123/micro-nelua-plugin | :heavy_check_mark: |
