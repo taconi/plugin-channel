@@ -6,6 +6,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `yosyslint`  | Plugin for checking the syntax of the Verilog language. Based on yosys | https://github.com/MuratovAS/micro-yosyslint   | :heavy_check_mark:                       |
 | `fzfinder` | The plugin allows you to integrate fzf to select and search for your project files | https://github.com/MuratovAS/micro-fzfinder | :heavy_check_mark: |
 | `splitterm` | Run a file or a selection of an inerpreted language within a new terminal window. | https://github.com/lukhof/splitterm | :heavy_check_mark: |
 | `ag` | This plugin provides the ability to search with "ag" (aka the_silver_searcher). | https://github.com/sebkolind/micro-ag | :heavy_check_mark: |
