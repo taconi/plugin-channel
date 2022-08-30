@@ -1,4 +1,7 @@
 [
+  // fzfinder plugin
+  "https://raw.githubusercontent.com/MuratovAS/micro-fzfinder/main/repo.json",
+
   // splitterm plugin
   "https://raw.githubusercontent.com/lukhof/splitterm/main/repo.json",
 
