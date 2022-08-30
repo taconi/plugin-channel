@@ -89,6 +89,9 @@
   // language-env plugin
   "https://gitlab.com/taconi/micro-language-env/-/raw/main/repo.json",
 
+  // CTags plugin
+  "https://raw.githubusercontent.com/codezapper/micro-ctags-plugin/master/repo.json",
+
   // findinfolder plugin
   "https://gitlab.com/taconi/micro-findinfolder/-/raw/main/repo.json"
 ]
