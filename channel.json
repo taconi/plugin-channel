@@ -1,4 +1,7 @@
 [
+  // gitStatus plugin
+  "https://gitlab.com/taconi/micro-git-status/-/raw/main/repo.json",
+
   // yosyslint plugin
   "https://raw.githubusercontent.com/MuratovAS/micro-yosyslint/main/repo.json",
 
