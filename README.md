@@ -16,6 +16,7 @@ Add this repository in ~/.config/settings.json
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `gitStatus`     | Information about git in status bar.                    | https://gitlab.com/taconi/micro-git-status                 | :heavy_check_mark:                       |
 | `yosyslint`  | Plugin for checking the syntax of the Verilog language. Based on yosys | https://github.com/MuratovAS/micro-yosyslint   | :heavy_check_mark:                       |
 | `fzfinder` | The plugin allows you to integrate fzf to select and search for your project files | https://github.com/MuratovAS/micro-fzfinder | :heavy_check_mark: |
 | `splitterm` | Run a file or a selection of an inerpreted language within a new terminal window. | https://github.com/lukhof/splitterm | :heavy_check_mark: |
