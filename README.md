@@ -8,7 +8,7 @@ Add this repository in ~/.config/settings.json
 ```json
 "pluginchannels": [
     "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json",
-    "https://github.com/taconi/plugin-channel/blob/main/channel.json"
+    "https://raw.githubusercontent.com/taconi/plugin-channel/main/channel.json"
 ]
 ```
 
