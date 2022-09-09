@@ -1,5 +1,8 @@
 [
   // gitStatus plugin
+  "https://gitlab.com/taconi/micro-language-ignore/-/raw/main/repo.json",
+
+  // gitStatus plugin
   "https://gitlab.com/taconi/micro-git-status/-/raw/main/repo.json",
 
   // yosyslint plugin
