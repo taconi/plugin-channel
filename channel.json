@@ -1,4 +1,7 @@
 [
+  // manager plugin
+  "https://gitlab.com/taconi/micro-manager/-/raw/main/repo.json",
+
   // language_env plugin
   "https://gitlab.com/taconi/micro-language-ignore/-/raw/main/repo.json",
 

@@ -16,6 +16,7 @@ Add this repository in ~/.config/settings.json
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `manager`       | Provides a way to manage automatic code formatting.     | https://gitlab.com/taconi/micro-manager                    | :heavy_check_mark:                       |
 | `language_ignore` | Adds syntax highlighting to 'ignore' files.           | https://gitlab.com/taconi/micro-language-ignore            | :heavy_check_mark:                       |
 | `gitStatus`     | Information about git in status bar.                    | https://gitlab.com/taconi/micro-git-status                 | :heavy_check_mark:                       |
 | `yosyslint`  | Plugin for checking the syntax of the Verilog language. Based on yosys | https://github.com/MuratovAS/micro-yosyslint   | :heavy_check_mark:                       |
