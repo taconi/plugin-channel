@@ -1,4 +1,7 @@
 [
+  // filemanager2 plugin
+  "https://gitlab.com/taconi/micro-filemanager2/-/raw/main/repo.json",
+
   // icons plugin
   "https://gitlab.com/taconi/micro-icons/-/raw/main/repo.json",
 
