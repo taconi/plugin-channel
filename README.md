@@ -16,6 +16,7 @@ Add this repository in ~/.config/settings.json
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `filemanager2`  | Plugin that allows for easy navigation of a file tree.  | https://gitlab.com/taconi/micro-filemanager2               | :heavy_check_mark:                       |
 | `icons`         | Icons by type files in status bar.                      | https://gitlab.com/taconi/micro-icons                      | :heavy_check_mark:                       |
 | `gloom`         | A dark and gloomy pastel color syntax theme for Micro.  | https://gitlab.com/taconi/micro-gloom                      | :heavy_check_mark:                       |
 | `manager`       | Provides a way to manage automatic code formatting.     | https://gitlab.com/taconi/micro-manager                    | :heavy_check_mark:                       |
