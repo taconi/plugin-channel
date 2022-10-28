@@ -16,6 +16,7 @@ Add this repository in ~/.config/settings.json
 
 | Plugin          | Description                                             | Link                                                       | 2.0 Support                              |
 | --------------- | ------------------------------------------------------- | -------------------------------------------------------    | ---------------------------------------- |
+| `gloom`         | A dark and gloomy pastel color syntax theme for Micro.  | https://gitlab.com/taconi/micro-gloom                      | :heavy_check_mark:                       |
 | `manager`       | Provides a way to manage automatic code formatting.     | https://gitlab.com/taconi/micro-manager                    | :heavy_check_mark:                       |
 | `language_ignore` | Adds syntax highlighting to 'ignore' files.           | https://gitlab.com/taconi/micro-language-ignore            | :heavy_check_mark:                       |
 | `gitStatus`     | Information about git in status bar.                    | https://gitlab.com/taconi/micro-git-status                 | :heavy_check_mark:                       |
