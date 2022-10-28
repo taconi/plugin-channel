@@ -1,4 +1,7 @@
 [
+  // gloom colorschemes
+  "https://gitlab.com/taconi/micro-gloom/-/raw/main/repo.json",
+
   // manager plugin
   "https://gitlab.com/taconi/micro-manager/-/raw/main/repo.json",
 
