@@ -1,4 +1,7 @@
 [
+  // icons plugin
+  "https://gitlab.com/taconi/micro-icons/-/raw/main/repo.json",
+
   // gloom colorschemes
   "https://gitlab.com/taconi/micro-gloom/-/raw/main/repo.json",
 
