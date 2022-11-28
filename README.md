@@ -1,6 +1,9 @@
 # Micro Plugin Channel
 
-This repository contains the 'channel.json' file which lists all micro plugins. This is where the editor looks to search for plugins to install.
+This repository contains the `channel.json` file which lists all micro plugins. This is where the editor looks to search for plugins to install.
+
+#### This is a [oficial channel](https://github.com/micro-editor/plugin-channel/) fork.
+
 
 ## Settings
 
