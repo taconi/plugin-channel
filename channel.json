@@ -1,4 +1,7 @@
 [
+  // wakatime plugin
+  "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
+
   // filemanager2 plugin
   "https://gitlab.com/taconi/micro-filemanager2/-/raw/main/repo.json",
 

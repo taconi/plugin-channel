@@ -85,6 +85,7 @@ Add this repository in ~/.config/settings.json
   - [`emacs_select`](https://github.com/kesslern/micro-emacs-select) - Emacs-style selection for Micro.
   - [`delve`](https://github.com/serge-v/micro-delve) - Integrates golang delve debugger.
   - [`detectindent`](https://github.com/dmaluka/micro-detectindent) - Automatically detect indentation settings.
+  - [`wakatime`](https://github.com/wakatime/micro-wakatime) - Metrics, insights, and time tracking automatically generated from your programming activity.
 
 
 ## Adding your own plugin
