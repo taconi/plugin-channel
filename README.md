@@ -7,7 +7,7 @@ This repository contains the `channel.json` file which lists all micro plugins. 
 
 ## Settings
 
-Add this repository in ~/.config/settings.json
+Add this repository in `~/.config/micro/settings.json`
 ```json
 "pluginchannels": [
     "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json",
