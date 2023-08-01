@@ -1,4 +1,7 @@
 [
+  // gzplugin
+  "https://raw.githubusercontent.com/dzmanto/gzplugin4micro/master/repo.json",
+
   // palettero plugin
   "https://raw.githubusercontent.com/terokarvinen/palettero/main/repo.json",
 
