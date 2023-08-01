@@ -34,6 +34,7 @@ Add this repository in `~/.config/micro/settings.json`
   - [`snippets`](https://github.com/micro-editor/updated-plugins/tree/master/micro-snippets-plugin) - Provides snippets functionality.
   - [`wc`](https://github.com/adamnpeace/micro-wc-plugin) - Plugin to count words/characters.
   - [`manipulator`](https://github.com/NicolaiSoeborg/manipulator-plugin) - Extend text manipulation abilities.
+  - [`manipulator2`](https://github.com/taconi/micro-manipulator2) - Text manipulation functions.
   - [`joinLines`](https://github.com/Lisiadito/join-lines-plugin) - Plugin which joins selected lines or the following with the current.
   - [`bounce`](https://github.com/deusnefum/micro-bounce) - Plugin that implements nano-style smart home and bouncing the cursor between matching-brackets.
   - [`quoter`](https://github.com/deusnefum/micro-quoter) - Plugin that allows you to add quotes or brackets around selected text.
