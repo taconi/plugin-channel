@@ -1,4 +1,7 @@
 [
+  // manipulator2 plugin
+  "https://raw.githubusercontent.com/taconi/micro-manipulator2/main/repo.json",
+
   // capitalizer plugin
   "https://raw.githubusercontent.com/CodeGiorgino/capitalizer/master/capitalizer.json",
 
