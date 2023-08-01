@@ -48,7 +48,7 @@
   "https://raw.githubusercontent.com/kesslern/micro-emacs-select/main/repo.json",
 
   // darken plugin
-  "https://raw.githubusercontent.com/informeai/darken/main/repo.json",
+  "https://raw.githubusercontent.com/taconi/micro-darken/main/repo.json",
 
   // delve plugin
   "https://raw.githubusercontent.com/serge-v/micro-delve/main/repo.json",
