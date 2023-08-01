@@ -1,4 +1,7 @@
 [
+  // capitalizer plugin
+  "https://raw.githubusercontent.com/CodeGiorgino/capitalizer/master/capitalizer.json",
+
   // gzplugin
   "https://raw.githubusercontent.com/dzmanto/gzplugin4micro/master/repo.json",
 

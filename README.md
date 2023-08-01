@@ -38,6 +38,7 @@ Add this repository in `~/.config/micro/settings.json`
   - [`bounce`](https://github.com/deusnefum/micro-bounce) - Plugin that implements nano-style smart home and bouncing the cursor between matching-brackets.
   - [`quoter`](https://github.com/deusnefum/micro-quoter) - Plugin that allows you to add quotes or brackets around selected text.
   - [`bookmark`](https://github.com/haqk/micro-bookmark) - Bookmark lines to quickly jump between saved positions.
+  - [`capitalizer`](https://github.com/CodeGiorgino/capitalizer) - A simple micro-editor plugin that allows to capitalize selected text.
 
 ### Colorschemes
   - [`gloom`](https://gitlab.com/taconi/micro-gloom) - A dark and gloomy pastel color syntax theme for Micro.
