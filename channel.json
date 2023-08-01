@@ -1,4 +1,7 @@
 [
+  // palettero plugin
+  "https://raw.githubusercontent.com/terokarvinen/palettero/main/repo.json",
+
   // cheat plugin
   "https://raw.githubusercontent.com/terokarvinen/micro-cheat/main/repo.json",
 
