@@ -1,4 +1,7 @@
 [
+  // lsp plugin
+  "https://raw.githubusercontent.com/AndCake/micro-plugin-lsp/master/repo.json",
+
   // wakatime plugin
   "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
 

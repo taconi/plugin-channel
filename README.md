@@ -60,6 +60,7 @@ Add this repository in `~/.config/micro/settings.json`
   - [`yosyslint`](https://github.com/MuratovAS/micro-yosyslint) - Plugin for checking the syntax of the Verilog language. Based on yosys.
   - [`lintertypescript`](https://github.com/sebkolind/micro-linter-typescript) - Ability to lint your Typescript (.ts & .tsx) files with tsc.
   - [`editorconfig`](https://github.com/10sr/editorconfig-micro) - EditorConfig Support for micro.
+  - [`lsp`](https://github.com/AndCake/micro-plugin-lsp) - An basic LSP client implementation
 
 ### Search
   - [`jump`](https://github.com/terokarvinen/micro-jump) - Jump to any function, class or heading with F4. Go, Markdown, Python, C and in 40 other languages.
