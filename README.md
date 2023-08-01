@@ -93,6 +93,7 @@ Add this repository in `~/.config/micro/settings.json`
   - [`run`](https://github.com/terokarvinen/micro-run) - F5 to save and run, F12 to 'make', F9 to 'make' in background. Go, Python, Lua and executable file (#!) supported. Can 'make' whole project even from subdir.
   - [`cheat`](https://github.com/terokarvinen/micro-cheat) - F1 cheatsheet for the language you're editing: Python, Go, Lua...
   - [`palettero`](https://github.com/terokarvinen/palettero) - Command palette - Ctrl-P to fuzzy search & run commands, textfilters and descriptions
+  - [`gzplugin`](https://github.com/dzmanto/gzplugin4micro) - Read and write .gzip files.
 
 
 ## Adding your own plugin
