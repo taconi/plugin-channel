@@ -90,6 +90,7 @@ Add this repository in `~/.config/micro/settings.json`
   - [`delve`](https://github.com/serge-v/micro-delve) - Integrates golang delve debugger.
   - [`detectindent`](https://github.com/dmaluka/micro-detectindent) - Automatically detect indentation settings.
   - [`wakatime`](https://github.com/wakatime/micro-wakatime) - Metrics, insights, and time tracking automatically generated from your programming activity.
+  - [`run`](https://github.com/terokarvinen/micro-run) - F5 to save and run, F12 to 'make', F9 to 'make' in background. Go, Python, Lua and executable file (#!) supported. Can 'make' whole project even from subdir.
 
 
 ## Adding your own plugin

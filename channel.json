@@ -1,4 +1,7 @@
 [
+  // run plugin
+  "https://raw.githubusercontent.com/terokarvinen/micro-run/main/repo.json",
+
   // lsp plugin
   "https://raw.githubusercontent.com/AndCake/micro-plugin-lsp/master/repo.json",
 
