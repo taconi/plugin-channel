@@ -1,4 +1,7 @@
 [
+  // cheat plugin
+  "https://raw.githubusercontent.com/terokarvinen/micro-cheat/main/repo.json",
+
   // run plugin
   "https://raw.githubusercontent.com/terokarvinen/micro-run/main/repo.json",
 
