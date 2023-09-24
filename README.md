@@ -11,7 +11,7 @@ Add this repository in `~/.config/micro/settings.json`
 ```json
 "pluginchannels": [
     "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json",
-    "https://raw.githubusercontent.com/taconi/plugin-channel/main/channel.json"
+    "https://codeberg.org/micro-plugins/plugin-channel/raw/branch/main/channel.json"
 ]
 ```
 
@@ -34,7 +34,7 @@ Add this repository in `~/.config/micro/settings.json`
   - [`snippets`](https://github.com/micro-editor/updated-plugins/tree/master/micro-snippets-plugin) - Provides snippets functionality.
   - [`wc`](https://github.com/adamnpeace/micro-wc-plugin) - Plugin to count words/characters.
   - [`manipulator`](https://github.com/NicolaiSoeborg/manipulator-plugin) - Extend text manipulation abilities.
-  - [`manipulator2`](https://github.com/taconi/micro-manipulator2) - Text manipulation functions.
+  - [`manipulator2`](https://codeberg.org/micro-plugins/manipulator2) - Text manipulation functions.
   - [`joinLines`](https://github.com/Lisiadito/join-lines-plugin) - Plugin which joins selected lines or the following with the current.
   - [`bounce`](https://github.com/deusnefum/micro-bounce) - Plugin that implements nano-style smart home and bouncing the cursor between matching-brackets.
   - [`quoter`](https://github.com/deusnefum/micro-quoter) - Plugin that allows you to add quotes or brackets around selected text.
@@ -42,18 +42,18 @@ Add this repository in `~/.config/micro/settings.json`
   - [`capitalizer`](https://github.com/CodeGiorgino/capitalizer) - A simple micro-editor plugin that allows to capitalize selected text.
 
 ### Colorschemes
-  - [`gloom`](https://gitlab.com/taconi/micro-gloom) - A dark and gloomy pastel color syntax theme for Micro.
-  - [`darken`](https://github.com/taconi/micro-darken) - Plugin with colorscheme of micro editor.
+  - [`gloom`](https://codeberg.org/micro-plugins/gloom) - A dark and gloomy pastel color syntax theme for Micro.
+  - [`darken`](https://codeberg.org/micro-plugins/darken) - Plugin with colorscheme of micro editor.
   - [`nord-colors`](https://github.com/KiranWells/micro-nord-tc-colors) - A set of dark and light colorschemes based on Nord.
   - [`sunny-day`](https://github.com/dwwmmn/micro-sunny-day) - Port of the Emacs theme by Martin Haesler.
 
 ### Syntax highlightings
-  - [`language_ignore`](https://gitlab.com/taconi/micro-language-ignore) - Adds syntax highlighting to 'ignore' files.
-  - [`language-env`](https://gitlab.com/taconi/micro-language-env) - Syntax highlighting for files with .env extension.
+  - [`language_ignore`](https://codeberg.org/micro-plugins/language-ignore) - Adds syntax highlighting to 'ignore' files.
+  - [`language_env`](https://codeberg.org/micro-plugins/language-env) - Syntax highlighting for files with .env extension.
 
 ### Formattings
   - [`go`](https://github.com/micro-editor/go-plugin) - Provides `gofmt` and `goimports` support for Go files.
-  - [`manager`](https://gitlab.com/taconi/micro-manager) - Provides a way to manage automatic code formatting.
+  - [`manager`](https://codeberg.org/micro-plugins/manager) - Provides a way to manage automatic code formatting.
   - [`prettier`](https://github.com/sebkolind/micro-prettier) - This plugin provides the ability to format your code with Prettier.
   - [`zigfmt`](https://github.com/squeek502/micro-zigfmt) - Provides `zig fmt` integration for Zig files.
   - [`yapf`](https://github.com/a11ce/micro-yapf) - Runs `yapf` in place when saving python files.
@@ -61,22 +61,21 @@ Add this repository in `~/.config/micro/settings.json`
 ### Linters
   - [`yosyslint`](https://github.com/MuratovAS/micro-yosyslint) - Plugin for checking the syntax of the Verilog language. Based on yosys.
   - [`lintertypescript`](https://github.com/sebkolind/micro-linter-typescript) - Ability to lint your Typescript (.ts & .tsx) files with tsc.
-  - [`editorconfig`](https://github.com/10sr/editorconfig-micro) - EditorConfig Support for micro.
+  - [`editorconfig`](https://codeberg.org/micro-plugins/editorconfig) - EditorConfig Support for micro.
   - [`lsp`](https://github.com/AndCake/micro-plugin-lsp) - An basic LSP client implementation
 
 ### Search
   - [`jump`](https://github.com/terokarvinen/micro-jump) - Jump to any function, class or heading with F4. Go, Markdown, Python, C and in 40 other languages.
-  - [`findinfolder`](https://gitlab.com/taconi/micro-findinfolder) - Folder search support.
+  - [`findinfolder`](https://codeberg.org/micro-plugins/findinfolder/raw/branch/main/repo.json) - Folder search support.
   - [`ag`](https://github.com/sebkolind/micro-ag) - This plugin provides the ability to search with "ag" (aka the_silver_searcher).
   - [`fzfinder`](https://github.com/MuratovAS/micro-fzfinder) - Integrate fzf to select and search for your project files.
 
 ### File managers
-  - [`filemanager2`](https://gitlab.com/taconi/micro-filemanager2) - Plugin that allows for easy navigation of a file tree.
+  - [`filemanager2`](https://codeberg.org/micro-plugins/filemanager2) - Plugin that allows for easy navigation of a file tree.
   - [`filemanager`](https://github.com/NicolaiSoeborg/filemanager-plugin) - A file manager!.
 
 ### Status bar
-  - [`icons`](https://gitlab.com/taconi/micro-icons) - Icons by type files in status bar.
-  - [`gitStatus`](https://gitlab.com/taconi/micro-git-status) - Information about git in status bar.
+  - [`gitStatus`](https://codeberg.org/micro-plugins/git-status) - Information about git in status bar.
 
 ### Completions
  - [`jlabbrev`](https://github.com/MasFlam/jlabbrev) - Provides backslash abbreviations from the julia prompt.
@@ -100,4 +99,4 @@ Add this repository in `~/.config/micro/settings.json`
 
 ## Adding your own plugin
 
-Collaboration is super welcome! See [CONTRIBUTING.md](https://github.com/taconi/plugin-channel/blob/main/CONTRIBUTING.md).
+Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro-plugins/plugin-channel/src/branch/main/CONTRIBUTING.md).
