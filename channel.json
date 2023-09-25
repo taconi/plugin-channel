@@ -1,184 +1,63 @@
 [
-  // manipulator2 plugin
   "https://codeberg.org/micro-plugins/manipulator2/raw/branch/main/repo.json",
-
-  // capitalizer plugin
   "https://raw.githubusercontent.com/CodeGiorgino/capitalizer/master/capitalizer.json",
-
-  // gzplugin
   "https://raw.githubusercontent.com/dzmanto/gzplugin4micro/master/repo.json",
-
-  // palettero plugin
   "https://raw.githubusercontent.com/terokarvinen/palettero/main/repo.json",
-
-  // cheat plugin
   "https://raw.githubusercontent.com/terokarvinen/micro-cheat/main/repo.json",
-
-  // run plugin
   "https://raw.githubusercontent.com/terokarvinen/micro-run/main/repo.json",
-
-  // lsp plugin
   "https://raw.githubusercontent.com/AndCake/micro-plugin-lsp/master/repo.json",
-
-  // wakatime plugin
   "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
-
-  // filemanager2 plugin
   "https://codeberg.org/micro-plugins/filemanager2/raw/branch/main/repo.json",
-
-  // gloom colorschemes
   "https://codeberg.org/micro-plugins/gloom/raw/branch/main/repo.json",
-
-  // manager plugin
   "https://codeberg.org/micro-plugins/manager/raw/branch/main/repo.json",
-
-  // language_ignore plugin
   "https://codeberg.org/micro-plugins/language-ignore/raw/branch/main/repo.json",
-
-  // gitStatus plugin
   "https://codeberg.org/micro-plugins/git-status/raw/branch/main/repo.json",
-
-  // yosyslint plugin
   "https://raw.githubusercontent.com/MuratovAS/micro-yosyslint/main/repo.json",
-
-  // fzfinder plugin
   "https://raw.githubusercontent.com/MuratovAS/micro-fzfinder/main/repo.json",
-
-  // splitterm plugin
   "https://raw.githubusercontent.com/lukhof/splitterm/main/repo.json",
-
-  // ag plugin
   "https://raw.githubusercontent.com/sebkolind/micro-ag/master/repo.json",
-
-  // prettier plugin
   "https://raw.githubusercontent.com/sebkolind/micro-prettier/master/repo.json",
-
-  // typescript linter
   "https://raw.githubusercontent.com/sebkolind/micro-linter-typescript/master/repo.json",
-
-  // acme editing plugin
   "https://raw.githubusercontent.com/xxuejie/micro-acme/main/repo.json",
-
-  // Nelua plugin
   "https://raw.githubusercontent.com/leapofazzam123/micro-nelua-plugin/main/repo.json",
-
-  // emacs_select plugin
   "https://raw.githubusercontent.com/kesslern/micro-emacs-select/main/repo.json",
-
-  // darken plugin
   "https://codeberg.org/micro-plugins/darken/raw/branch/main/repo.json",
-
-  // delve plugin
   "https://raw.githubusercontent.com/serge-v/micro-delve/main/repo.json",
-
-  // Bookmarks plugin
   "https://raw.githubusercontent.com/davidalbertainley/micro-bookmarks-plugin/master/repo.json",
-
-  // Exec plugin
   "https://raw.githubusercontent.com/ibotdeu/exec-plugin/master/repo.json",
-
-  // autosave plugin
   "https://raw.githubusercontent.com/pennie-quinn/micro-plugin-autosave/master/repo.json",
-
-  // mcompiler plugin
   "https://raw.githubusercontent.com/Odyssey2247/mcompiler/master/repo.json",
-
-  // sunny-day colorscheme
   "https://raw.githubusercontent.com/dwwmmn/micro-sunny-day/master/repo.json",
-
-  // Comment plugin
   "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
-
-  // EditorConfig plugin
   "https://codeberg.org/micro-plugins/editorconfig/raw/branch/main/repo.json",
-
-  // Fish plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-fish-plugin/repo.json",
-
-  // fzf plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/fzf/repo.json",
-
-  // Go plugin
   "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
-
-  // Snippets plugin
    "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-snippets-plugin/repo.json",
-
-  // wc plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-wc-plugin/repo.json",
-
-  // Pony plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-pony-plugin/repo.json",
-
-  // Misspell plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-misspell-plugin/repo.json",
-
-  // Crystal plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-crystal/repo.json",
-
-  // Gotham colorscheme
   "https://raw.githubusercontent.com/novln/micro-gotham-colors/master/repo.json",
-
-  // monokai-dark colorscheme
   "https://raw.githubusercontent.com/Theodus/micro-monokai-dark/master/repo.json",
-
-  // scratch file plugin
   "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json",
-
-  // Manipulator plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/manipulator-plugin/repo.json",
-
-  // Filemanager plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/filemanager-plugin/repo.json",
-
-  // fmt plugin
   "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json",
-
-  // JoinLines plugin
   "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json",
-
-  // Quoter plugin
   "https://raw.githubusercontent.com/deusnefum/micro-quoter/master/repo.json",
-
-  // Bounce plugin
   "https://raw.githubusercontent.com/deusnefum/micro-bounce/master/repo.json",
-
-  // zigfmt plugin
   "https://raw.githubusercontent.com/squeek502/micro-zigfmt/master/repo.json",
-
-  // Aspell plugin
   "https://raw.githubusercontent.com/priner/micro-aspell-plugin/master/repo.json",
-
-  // jlabbrev plugin
   "https://raw.githubusercontent.com/MasFlam/jlabbrev/master/repo.json",
-
-  // wakatime plugin
   "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
-
-  // nord colorschemes
   "https://raw.githubusercontent.com/KiranWells/micro-nord-tc-colors/main/repo.json",
-
-  // yapf plugin
   "https://raw.githubusercontent.com/a11ce/micro-yapf/master/repo.json",
-
-  // bookmark plugin
   "https://raw.githubusercontent.com/haqk/micro-bookmark/main/repo.json",
-
-  // quickfix plugin
   "https://raw.githubusercontent.com/serge-v/micro-quickfix/main/repo.json",
-
-  // jump plugin
   "https://raw.githubusercontent.com/terokarvinen/micro-jump/main/repo.json",
-
-  // detectindent plugin
   "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json",
-
-  // language-env plugin
   "https://codeberg.org/micro-plugins/language-env/raw/branch/main/repo.json",
-
-  // CTags plugin
   "https://raw.githubusercontent.com/codezapper/micro-ctags-plugin/master/repo.json",
-
-  // findinfolder plugin
   "https://codeberg.org/micro-plugins/findinfolder/raw/branch/main/repo.json"
 ]
