@@ -1,4 +1,7 @@
 [
+  // language_log plugin
+  "https://codeberg.org/micro-plugins/language-log/raw/branch/main/repo.json",
+
   // selto plugin
   "https://raw.githubusercontent.com/PawelMTRK/micro-selto-plugin/main/repo.json",
 
