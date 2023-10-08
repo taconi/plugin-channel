@@ -1,4 +1,7 @@
 [
+  // selto plugin
+  "https://raw.githubusercontent.com/PawelMTRK/micro-selto-plugin/main/repo.json",
+
   // align plugin
   "https://raw.githubusercontent.com/mosskjohnson/align-plugin/master/repo.json",
 

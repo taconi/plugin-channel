@@ -97,6 +97,7 @@ Add this repository in `~/.config/micro/settings.json`
   - [`cheat`](https://github.com/terokarvinen/micro-cheat) - F1 cheatsheet for the language you're editing: Python, Go, Lua...
   - [`palettero`](https://github.com/terokarvinen/palettero) - Command palette - Ctrl-P to fuzzy search & run commands, textfilters and descriptions
   - [`gzplugin`](https://github.com/dzmanto/gzplugin4micro) - Read and write .gzip files.
+  - [`selto`](https://github.com/PawelMTRK/micro-selto-plugin) - Simple plugin allowing to quickly select lines.
 
 
 ## Adding your own plugin
