@@ -40,6 +40,7 @@ Add this repository in `~/.config/micro/settings.json`
   - [`quoter`](https://github.com/deusnefum/micro-quoter) - Plugin that allows you to add quotes or brackets around selected text.
   - [`bookmark`](https://github.com/haqk/micro-bookmark) - Bookmark lines to quickly jump between saved positions.
   - [`capitalizer`](https://github.com/CodeGiorgino/capitalizer) - A simple micro-editor plugin that allows to capitalize selected text.
+  - [`align`](https://github.com/mosskjohnson/align-plugin) - Simple plugin to align multiple cursors in micro..
 
 ### Colorschemes
   - [`gloom`](https://gitlab.com/taconi/micro-gloom) - A dark and gloomy pastel color syntax theme for Micro.
