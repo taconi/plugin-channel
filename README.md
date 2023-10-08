@@ -50,7 +50,7 @@ Add this repository in `~/.config/micro/settings.json`
 
 ### Syntax highlightings
   - [`language_ignore`](https://gitlab.com/taconi/micro-language-ignore) - Adds syntax highlighting to 'ignore' files.
-  - [`language-env`](https://gitlab.com/taconi/micro-language-env) - Syntax highlighting for files with .env extension.
+  - [`language_env`](https://gitlab.com/taconi/micro-language-env) - Syntax highlighting for files with .env extension.
   - [`language_log`](https://codeberg.org/micro-plugins/language-log) - Syntax highlighting for files with .log extension.
 
 ### Formattings
