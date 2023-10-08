@@ -1,4 +1,7 @@
 [
+  // align plugin
+  "https://raw.githubusercontent.com/mosskjohnson/align-plugin/master/repo.json",
+
   // manipulator2 plugin
   "https://raw.githubusercontent.com/taconi/micro-manipulator2/main/repo.json",
 
