@@ -1,12 +1,11 @@
 ---
-when:
-  event: cron
-  cron: update plugins
-
 steps:
   update:
     image: python:3.12-alpine
     commands: python scripts/update.py
+    when:
+      event: cron
+      cron: update plugins
 
   push:
     image: appleboy/drone-git-push
@@ -16,3 +15,6 @@ steps:
         from_secret: codeberg_repository
       force: true
       commit: true
+    when:
+      event: cron
+      cron: update plugins
