@@ -1,0 +1,20 @@
+[
+    {
+        "Description": "A linter for Typescript (.ts & .tsx) using tsc",
+        "Name": "lintertypescript",
+        "Tags": [
+            "linting",
+            "typescript"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.0"
+                },
+                "Url": "https://github.com/sebkolind/micro-linter-typescript/archive/v1.0.3.zip",
+                "Version": "1.0.3"
+            }
+        ],
+        "Website": "https://github.com/sebkolind/micro-linter-typescript"
+    }
+]

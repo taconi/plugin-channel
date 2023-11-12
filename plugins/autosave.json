@@ -1,0 +1,18 @@
+[
+    {
+        "Description": "plugin to replace the default autosave feature",
+        "Name": "autosave",
+        "Tags": [
+            "autosave"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=1.0.3"
+                },
+                "Url": "https://github.com/pennie-quinn/micro-plugin-autosave/archive/master.zip",
+                "Version": "0.1.0"
+            }
+        ]
+    }
+]

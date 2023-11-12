@@ -1,0 +1,18 @@
+[
+    {
+        "Description": "Simple plugin to compile code using micro text editor",
+        "Name": "mcompiler",
+        "Tags": [
+            "mcompiler"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=1.1.2"
+                },
+                "Url": "https://github.com/joselbr2099/mcompiler/archive/1.0.1.zip",
+                "Version": "1.0.1"
+            }
+        ]
+    }
+]

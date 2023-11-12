@@ -1,0 +1,41 @@
+[
+    {
+        "Description": "Go language support (gofmt and goimports)",
+        "Name": "go",
+        "Tags": [
+            "go",
+            "golang"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.0"
+                },
+                "Url": "https://github.com/micro-editor/go-plugin/archive/v2.0.2.zip",
+                "Version": "2.0.2"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.0-1"
+                },
+                "Url": "https://github.com/micro-editor/go-plugin/archive/v2.0.1.zip",
+                "Version": "2.0.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.0-1"
+                },
+                "Url": "https://github.com/micro-editor/go-plugin/archive/v2.0.0.zip",
+                "Version": "2.0.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=1.0.3 <2.0.0-1"
+                },
+                "Url": "https://github.com/micro-editor/go-plugin/archive/v1.0.1.zip",
+                "Version": "1.0.1"
+            }
+        ],
+        "Website": "https://github.com/micro-editor/go-plugin"
+    }
+]

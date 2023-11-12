@@ -1,0 +1,82 @@
+[
+    {
+        "Description": "Generic LSP Client for Micro",
+        "Name": "lsp",
+        "Tags": [
+            "lsp"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.10"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.4.1.zip",
+                "Version": "0.4.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.4.2.zip",
+                "Version": "0.4.2"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.4.3.zip",
+                "Version": "0.4.3"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.5.0.zip",
+                "Version": "0.5.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.5.1.zip",
+                "Version": "0.5.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.5.2.zip",
+                "Version": "0.5.2"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.5.3.zip",
+                "Version": "0.5.3"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.6.0.zip",
+                "Version": "0.6.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.6.1.zip",
+                "Version": "0.6.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/AndCake/micro-plugin-lsp/archive/v0.6.2.zip",
+                "Version": "0.6.2"
+            }
+        ],
+        "Website": "https://github.com/AndCake/micro-plugin-lsp"
+    }
+]

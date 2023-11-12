@@ -1,0 +1,22 @@
+[
+    {
+        "Description": "The plugin allows you to integrate fzf to select and search for your project files.",
+        "Name": "fzfinder",
+        "Tags": [
+            "fzf",
+            "finder",
+            "file",
+            "menu"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.0"
+                },
+                "Url": "https://github.com/muratovas/micro-fzfinder/archive/v0.2.0.zip",
+                "Version": "0.2.0"
+            }
+        ],
+        "Website": "https://github.com/muratovas/micro-fzfinder"
+    }
+]

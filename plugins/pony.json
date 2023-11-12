@@ -1,0 +1,26 @@
+[
+    {
+        "Description": "plugin for the Pony Programming Language",
+        "Name": "pony",
+        "Tags": [
+            "pony"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.0-1"
+                },
+                "Url": "https://github.com/micro-editor/updated-plugins/releases/download/v1.0.0/pony-0.4.0.zip",
+                "Version": "0.4.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=1.1.3"
+                },
+                "Url": "https://github.com/theodus/micro-pony-plugin/archive/0.3.0.zip",
+                "Version": "0.3.0"
+            }
+        ],
+        "Website": "https://github.com/Theodus/micro-pony-plugin"
+    }
+]

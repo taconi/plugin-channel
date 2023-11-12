@@ -1,0 +1,19 @@
+[
+    {
+        "Description": "Automatically detect indentation settings",
+        "Name": "detectindent",
+        "Tags": [
+            "indent",
+            "detect"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.0"
+                },
+                "Url": "https://github.com/dmaluka/micro-detectindent/archive/v1.1.0.zip",
+                "Version": "1.1.0"
+            }
+        ]
+    }
+]

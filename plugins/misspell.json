@@ -1,0 +1,28 @@
+[
+    {
+        "Description": "plugin that corrects commonly misspelled words",
+        "Name": "misspell",
+        "Tags": [
+            "spell",
+            "check",
+            "misspell"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.0-1"
+                },
+                "Url": "https://github.com/micro-editor/updated-plugins/releases/download/v1.0.0/misspell-0.2.0.zip",
+                "Version": "0.2.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=1.0.3"
+                },
+                "Url": "https://github.com/onodera-punpun/micro-misspell-plugin/archive/0.1.0.zip",
+                "Version": "0.1.0"
+            }
+        ],
+        "Website": "https://github.com/onodera-punpun/micro-misspell-plugin"
+    }
+]

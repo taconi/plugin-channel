@@ -1,0 +1,19 @@
+[
+    {
+        "Description": "Plugin to speedup the edit-make-edit development cycle.",
+        "Name": "quickfix",
+        "Tags": [
+            "quickfix"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.0"
+                },
+                "Url": "https://github.com/serge-v/micro-quickfix/archive/v2.1.2.zip",
+                "Version": "2.1.2"
+            }
+        ],
+        "Website": "https://github.com/serge-v/micro-quickfix"
+    }
+]

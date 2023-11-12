@@ -1,0 +1,29 @@
+[
+    {
+        "Description": "A dark and gloomy pastel color syntax theme for Micro.",
+        "Name": "gloom",
+        "Tags": [
+            "gloom",
+            "colorscheme",
+            "color",
+            "theme"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.12"
+                },
+                "Url": "https://codeberg.org/micro-plugins/gloom/archive/v0.1.1.zip",
+                "Version": "0.1.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.1"
+                },
+                "Url": "https://codeberg.org/micro-plugins/gloom/archive/v0.1.0.zip",
+                "Version": "0.1.0"
+            }
+        ],
+        "Website": "https://codeberg.org/micro-plugins/gloom"
+    }
+]

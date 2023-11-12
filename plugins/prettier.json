@@ -1,0 +1,20 @@
+[
+    {
+        "Description": "A Prettier plugin",
+        "Name": "prettier",
+        "Tags": [
+            "formatting",
+            "prettier"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.0"
+                },
+                "Url": "https://github.com/sebkolind/micro-prettier/archive/v1.0.0.zip",
+                "Version": "1.0.0"
+            }
+        ],
+        "Website": "https://github.com/sebkolind/micro-prettier"
+    }
+]

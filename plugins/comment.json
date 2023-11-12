@@ -1,0 +1,19 @@
+[
+    {
+        "Description": "Plugin to auto comment or uncomment lines",
+        "Name": "comment",
+        "Tags": [
+            "comment",
+            "uncomment"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=1.1.0 <2.0.0"
+                },
+                "Url": "https://github.com/micro-editor/comment-plugin/archive/v1.0.6.zip",
+                "Version": "1.0.6"
+            }
+        ]
+    }
+]

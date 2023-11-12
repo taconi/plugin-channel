@@ -1,0 +1,23 @@
+[
+    {
+        "Description": "Run file or selection of a interpreted language directly in micro",
+        "Name": "splitterm",
+        "Tags": [
+            "interpreter",
+            "terminal",
+            "bash",
+            "perl",
+            "python"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.10"
+                },
+                "Url": "https://github.com/lukhof/splitterm/archive/v1.0.0.zip",
+                "Version": "1.0.0"
+            }
+        ],
+        "Website": "https://github.com/lukhof/splitterm"
+    }
+]

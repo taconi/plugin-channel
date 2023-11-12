@@ -1,0 +1,21 @@
+[
+    {
+        "Description": "Plugin to count words/characters in micro",
+        "Name": "wc",
+        "Tags": [
+            "wc",
+            "word",
+            "character",
+            "count"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=1.1.0"
+                },
+                "Url": "https://github.com/adamnpeace/micro-wc-plugin/archive/1.2.1.zip",
+                "Version": "1.2.1"
+            }
+        ]
+    }
+]

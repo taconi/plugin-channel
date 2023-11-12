@@ -1,0 +1,50 @@
+[
+    {
+        "Description": "File manager for Micro",
+        "Name": "filemanager2",
+        "Tags": [
+            "filetree",
+            "filemanager",
+            "file",
+            "manager"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.12"
+                },
+                "Url": "https://codeberg.org/micro-plugins/filemanager2/archive/v1.2.1.zip",
+                "Version": "1.2.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/filemanager2/archive/v1.2.0.zip",
+                "Version": "1.2.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/filemanager2/archive/v1.1.1.zip",
+                "Version": "1.1.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.0-1"
+                },
+                "Url": "https://codeberg.org/micro-plugins/filemanager2/archive/v1.1.0.zip",
+                "Version": "1.1.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.0-1"
+                },
+                "Url": "https://codeberg.org/micro-plugins/filemanager2/archive/v1.0.0.zip",
+                "Version": "1.0.0"
+            }
+        ],
+        "Website": "https://codeberg.org/micro-plugins/filemanager2"
+    }
+]
