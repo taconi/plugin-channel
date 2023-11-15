@@ -1,0 +1,22 @@
+[
+    {
+        "Description": "A very simple plugin to preview markdown in a second editor pane using pandoc.",
+        "License": "GPLv3+",
+        "Name": "preview",
+        "Tags": [
+            "markdown",
+            "pandoc",
+            "preview"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://github.com/weebi/micro-preview/archive/1.0.0.zip",
+                "Version": "1.0.0"
+            }
+        ],
+        "Website": "https://github.com/weebi/micro-preview"
+    }
+]
