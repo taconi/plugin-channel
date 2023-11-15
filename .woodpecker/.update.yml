@@ -4,8 +4,10 @@ steps:
     image: python:3.12-alpine
     commands: python scripts/update.py
     when:
-      event: cron
-      cron: update plugins
+      - event: cron
+        cron: update plugins
+      - event: [push, pull_request]
+        branch: main
 
   push:
     image: appleboy/drone-git-push
@@ -16,5 +18,7 @@ steps:
       force: true
       commit: true
     when:
-      event: cron
-      cron: update plugins
+      - event: cron
+        cron: update plugins
+      - event: [push, pull_request]
+        branch: main
