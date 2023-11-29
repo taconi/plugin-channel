@@ -76,6 +76,7 @@ Add this repository in `~/.config/micro/settings.json`
 * [`findinfolder`](https://codeberg.org/micro-plugins/findinfolder/raw/branch/main/repo.json) - Folder search support.
 * [`ag`](https://github.com/sebkolind/micro-ag) - This plugin provides the ability to search with "ag" (aka the_silver_searcher).
 * [`fzfinder`](https://github.com/MuratovAS/micro-fzfinder) - Integrate fzf to select and search for your project files.
+* [`grepsearch`](https://github.com/gaenseklein/grepsearch) - Using grep to recursively search in files.
 
 ### File managers
 
