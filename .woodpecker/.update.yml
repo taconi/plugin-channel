@@ -20,5 +20,5 @@ steps:
     when:
       - event: cron
         cron: update plugins
-      - event: [push, pull_request]
+      - event: [push]
         branch: main
