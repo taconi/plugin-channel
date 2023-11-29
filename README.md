@@ -81,6 +81,7 @@ Add this repository in `~/.config/micro/settings.json`
 
 * [`filemanager2`](https://codeberg.org/micro-plugins/filemanager2) - Plugin that allows for easy navigation of a file tree.
 * [`filemanager`](https://github.com/NicolaiSoeborg/filemanager-plugin) - A file manager!.
+* [`repfiles`](https://github.com/gaenseklein/repfiles) - A filemanager for your git-repository.
 
 ### Status bar
 
