@@ -1,0 +1,25 @@
+[
+    {
+        "Description": "a filemanager for your git-repository",
+        "License": "GPL3",
+        "Name": "repfiles",
+        "Tags": [
+            "filemanager",
+            "filetree",
+            "git",
+            "repository",
+            "file",
+            "manager"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://github.com/gaenseklein/repfiles/archive/v1.0.0.zip",
+                "Version": "1.0.0"
+            }
+        ],
+        "Website": "https://github.com/gaenseklein/repfiles"
+    }
+]
