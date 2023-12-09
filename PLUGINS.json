@@ -53,11 +53,11 @@
     "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
     "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
     "https://codeberg.org/micro-plugins/colorschemes/raw/branch/main/repo.json",
-    "https://codeberg.org/micro-plugins/findinfolder/raw/branch/main/repo.json"
+    "https://codeberg.org/micro-plugins/findinfolder/raw/branch/main/repo.json",
     "https://codeberg.org/micro-plugins/filemanager2/raw/branch/main/repo.json",
     "https://codeberg.org/micro-plugins/git-status/raw/branch/main/repo.json",
     "https://codeberg.org/micro-plugins/manager/raw/branch/main/repo.json",
     "https://codeberg.org/micro-plugins/language-ignore/raw/branch/main/repo.json",
     "https://codeberg.org/micro-plugins/language-env/raw/branch/main/repo.json",
-    "https://codeberg.org/micro-plugins/language-log/raw/branch/main/repo.json",
+    "https://codeberg.org/micro-plugins/language-log/raw/branch/main/repo.json"
 ]
