@@ -46,8 +46,7 @@ Add this repository in `~/.config/micro/settings.json`
 
 ### Colorschemes
 
-* [`gloom`](https://codeberg.org/micro-plugins/gloom) - A dark and gloomy pastel color syntax theme for Micro.
-* [`darken`](https://codeberg.org/micro-plugins/darken) - Plugin with colorscheme of micro editor.
+* [`colorschemes`](https://codeberg.org/micro-plugins/colorschemes) - Colorschemes aggregator.
 * [`nord-colors`](https://github.com/KiranWells/micro-nord-tc-colors) - A set of dark and light colorschemes based on Nord.
 * [`sunny-day`](https://github.com/dwwmmn/micro-sunny-day) - Port of the Emacs theme by Martin Haesler.
 

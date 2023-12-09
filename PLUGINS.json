@@ -1,4 +1,5 @@
 [
+    "https://codeberg.org/micro-plugins/colorschemes/raw/branch/main/repo.json",
     "https://raw.githubusercontent.com/gaenseklein/grepsearch/main/repo.json",
     "https://raw.githubusercontent.com/gaenseklein/repfiles/main/repo.json",
     "https://raw.githubusercontent.com/weebi/micro-preview/master/repo.json",
@@ -10,7 +11,6 @@
     "https://raw.githubusercontent.com/AndCake/micro-plugin-lsp/master/repo.json",
     "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
     "https://codeberg.org/micro-plugins/filemanager2/raw/branch/main/repo.json",
-    "https://codeberg.org/micro-plugins/gloom/raw/branch/main/repo.json",
     "https://codeberg.org/micro-plugins/manager/raw/branch/main/repo.json",
     "https://codeberg.org/micro-plugins/language-ignore/raw/branch/main/repo.json",
     "https://codeberg.org/micro-plugins/git-status/raw/branch/main/repo.json",
@@ -23,7 +23,6 @@
     "https://raw.githubusercontent.com/xxuejie/micro-acme/main/repo.json",
     "https://raw.githubusercontent.com/leapofazzam123/micro-nelua-plugin/main/repo.json",
     "https://raw.githubusercontent.com/kesslern/micro-emacs-select/main/repo.json",
-    "https://codeberg.org/micro-plugins/darken/raw/branch/main/repo.json",
     "https://raw.githubusercontent.com/serge-v/micro-delve/main/repo.json",
     "https://raw.githubusercontent.com/ibotdeu/exec-plugin/master/repo.json",
     "https://raw.githubusercontent.com/pennie-quinn/micro-plugin-autosave/master/repo.json",
