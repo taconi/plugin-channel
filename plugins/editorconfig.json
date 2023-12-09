@@ -10,33 +10,26 @@
         "Versions": [
             {
                 "Require": {
-                    "micro": ">=2.0.12"
-                },
-                "Url": "https://codeberg.org/micro-plugins/editorconfig/archive/v1.1.1.zip",
-                "Version": "1.1.1"
-            },
-            {
-                "Require": {
                     "micro": ">=2.0.1"
                 },
-                "Url": "https://codeberg.org/micro-plugins/editorconfig/archive/v1.1.0.zip",
+                "Url": "https://github.com/10sr/editorconfig-micro/archive/v1.1.0.zip",
                 "Version": "1.1.0"
             },
             {
                 "Require": {
                     "micro": ">=2.0.1"
                 },
-                "Url": "https://codeberg.org/micro-plugins/editorconfig/archive/v1.0.0.zip",
+                "Url": "https://github.com/10sr/editorconfig-micro/archive/v1.0.0.zip",
                 "Version": "1.0.0"
             },
             {
                 "Require": {
                     "micro": ">=1.3.2 <2.0.0"
                 },
-                "Url": "https://codeberg.org/micro-plugins/editorconfig/archive/v0.2.3.zip",
+                "Url": "https://github.com/10sr/editorconfig-micro/archive/v0.2.3.zip",
                 "Version": "0.2.3"
             }
         ],
-        "Website": "https://codeberg.org/micro-plugins/editorconfig"
+        "Website": "https://github.com/10sr/editorconfig-micro"
     }
 ]
