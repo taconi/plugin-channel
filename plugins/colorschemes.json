@@ -1,0 +1,21 @@
+[
+    {
+        "Description": "Colorschemes aggregator",
+        "Name": "colorschemes",
+        "Tags": [
+            "colorscheme",
+            "color",
+            "theme"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/colorschemes/archive/v0.0.1.zip",
+                "Version": "0.0.1"
+            }
+        ],
+        "Website": "https://codeberg.org/micro-plugins/manager/colorschemes"
+    }
+]
