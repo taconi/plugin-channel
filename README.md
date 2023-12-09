@@ -54,6 +54,7 @@ Add this repository in `~/.config/micro/settings.json`
 
 * [`language_ignore`](https://codeberg.org/micro-plugins/language-ignore) - Adds syntax highlighting to 'ignore' files.
 * [`language_env`](https://codeberg.org/micro-plugins/language-env) - Syntax highlighting for files with .env extension.
+* [`language_log`](https://codeberg.org/micro-plugins/language-log) - Syntax highlighting for files with .log extension.
 
 ### Formattings
 
@@ -66,7 +67,7 @@ Add this repository in `~/.config/micro/settings.json`
 
 * [`yosyslint`](https://github.com/MuratovAS/micro-yosyslint) - Plugin for checking the syntax of the Verilog language. Based on yosys.
 * [`lintertypescript`](https://github.com/sebkolind/micro-linter-typescript) - Ability to lint your Typescript (.ts & .tsx) files with tsc.
-* [`editorconfig`](https://codeberg.org/micro-plugins/editorconfig) - EditorConfig Support for micro.
+* [`editorconfig`](https://github.com/10sr/editorconfig-micro) - EditorConfig Support for micro.
 * [`lsp`](https://github.com/AndCake/micro-plugin-lsp) - An basic LSP client implementation
 
 ### Search
