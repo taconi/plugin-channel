@@ -16,7 +16,7 @@
                 "Require": {
                     "micro": ">=2.0.8"
                 },
-                "Url": "https://github.com/gaenseklein/repfiles/archive/v1.0.0.zip",
+                "Url": "https://github.com/gaenseklein/repfiles/archive/refs/tags/v1.0.0.zip",
                 "Version": "1.0.0"
             }
         ],
