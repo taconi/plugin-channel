@@ -29,6 +29,7 @@ Add this repository in `~/.config/micro/settings.json`
 * [Status bar](#status-bar)
 * [Completions](#completions)
 * [Languages](#languages)
+* [Markdown](#markdown)
 * [Others](#others)
 
 ----
@@ -96,6 +97,11 @@ Add this repository in `~/.config/micro/settings.json`
 
 * [`nelua`](https://github.com/leapofazzam123/micro-nelua-plugin) - Nelua support for Micro text editor.
 
+### Markdown
+
+* [`preview`](https://github.com/weebi/micro-preview) - A very simple plugin to preview markdown in a second editor pane using pandoc.
+* [`mdtree`](https://notabug.org/dustdfg/micro-mdtree) - A plugin for the micro text editor to add sidebar for jumpring and viewing TOC of markdown files.
+
 ### Others
 
 * [`splitterm`](https://github.com/lukhof/splitterm) - Run a file or a selection of an inerpreted language within a new terminal window.
@@ -110,7 +116,6 @@ Add this repository in `~/.config/micro/settings.json`
 * [`palettero`](https://github.com/terokarvinen/palettero) - Command palette - Ctrl-P to fuzzy search & run commands, textfilters and descriptions
 * [`gzplugin`](https://github.com/dzmanto/gzplugin4micro) - Read and write .gzip files.
 * [`manager`](https://codeberg.org/micro-plugins/manager) - Provides a way to manage linters, formatters, commands, keybindings, settings, plugins.
-* [`preview`](https://github.com/weebi/micro-preview) - A very simple plugin to preview markdown in a second editor pane using pandoc.
 * [`urlopen`](https://github.com/pjg11/micro-urlopen) - A plugin for the micro text editor to add support for opening URLs in text files.
 * [`selto`](https://github.com/PawelMTRK/micro-selto-plugin) - Simple plugin allowing to quickly select lines.
 
