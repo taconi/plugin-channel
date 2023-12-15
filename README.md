@@ -112,6 +112,7 @@ Add this repository in `~/.config/micro/settings.json`
 * [`manager`](https://codeberg.org/micro-plugins/manager) - Provides a way to manage linters, formatters, commands, keybindings, settings, plugins.
 * [`preview`](https://github.com/weebi/micro-preview) - A very simple plugin to preview markdown in a second editor pane using pandoc.
 * [`urlopen`](https://github.com/pjg11/micro-urlopen) - A plugin for the micro text editor to add support for opening URLs in text files.
+* [`selto`](https://github.com/PawelMTRK/micro-selto-plugin) - Simple plugin allowing to quickly select lines.
 
 ## Adding your own plugin
 
