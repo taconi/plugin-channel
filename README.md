@@ -8,6 +8,7 @@ This repository contains the `channel.json` file which lists all micro plugins. 
 ⚠️  Warning!⚠️
 
 This is just a plugin centralizer, plugin owners can change or add versions with malicious codes, I recommend checking each plugin before installing, use at your own risk
+
 ---
 
 ## Settings
