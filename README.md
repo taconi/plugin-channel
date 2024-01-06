@@ -59,6 +59,7 @@ Add this repository in `~/.config/micro/settings.json`
 | [sunny-day] | Port of the Emacs theme by Martin Haesler.
 | [urlopen] | A plugin for the micro text editor to add support for opening URLs in text files.
 | [wakatime] | Metrics, insights, and time tracking automatically generated from your programming activity.
+| [xonsh] | Syntax highlighting for xonsh files.
 
 ## Adding your own plugin
 
@@ -97,3 +98,4 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [sunny-day]: https://github.com/dwwmmn/micro-sunny-day
 [urlopen]: https://github.com/pjg11/micro-urlopen
 [wakatime]: https://github.com/wakatime/micro-wakatime
+[xonsh]: https://codeberg.org/micro-plugins/xonsh
