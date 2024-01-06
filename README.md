@@ -43,6 +43,7 @@ Add this repository in `~/.config/micro/settings.json`
 | [gzplugin] | Read and write .gzip files.
 | [language_env] | Syntax highlighting for files with .env extension.
 | [language_ignore] | Adds syntax highlighting to 'ignore' files.
+| [language_kv] | Syntax highlighting for kvlang.
 | [language_log] | Syntax highlighting for files with .log extension.
 | [lintertypescript] | Ability to lint your Typescript (.ts & .tsx) files with tsc.
 | [manager] | Provides a way to manage linters, formatters, commands, keybindings, settings, plugins.
@@ -82,6 +83,7 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [gzplugin]: https://github.com/dzmanto/gzplugin4micro
 [language_env]: https://codeberg.org/micro-plugins/language-env
 [language_ignore]: https://codeberg.org/micro-plugins/language-ignore
+[language_kv]: https://codeberg.org/micro-plugins/language-kv
 [language_log]: https://codeberg.org/micro-plugins/language-log
 [lintertypescript]: https://github.com/sebkolind/micro-linter-typescript
 [manager]: https://codeberg.org/micro-plugins/manager
