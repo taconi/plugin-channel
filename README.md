@@ -69,14 +69,14 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [acme]: https://github.com/xxuejie/micro-acme
 [ag]: https://github.com/sebkolind/micro-ag
 [aspell]: https://github.com/priner/micro-aspell-plugin
-[battery]: https://github.com/dubyte/battery-plugin
+[battery]: https://github.com/dubyte/micro-battery
 [capitalizer]: https://github.com/CodeGiorgino/capitalizer
 [cheat]: https://github.com/terokarvinen/micro-cheat
 [colorschemes]: https://codeberg.org/micro-plugins/colorschemes
 [delve]: https://github.com/serge-v/micro-delve
 [emacs_select]: https://github.com/kesslern/micro-emacs-select
 [filemanager2]: https://codeberg.org/micro-plugins/filemanager2
-[findinfolder]: https://codeberg.org/micro-plugins/findinfolder/raw/branch/main/repo.json
+[findinfolder]: https://codeberg.org/micro-plugins/findinfolder
 [fzfinder]: https://github.com/MuratovAS/micro-fzfinder
 [gitStatus]: https://codeberg.org/micro-plugins/git-status
 [grepsearch]: https://github.com/gaenseklein/grepsearch
