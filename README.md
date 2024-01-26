@@ -30,6 +30,7 @@ Add this repository in `~/.config/micro/settings.json`
 | [ag] | This plugin provides the ability to search with "ag" (aka the_silver_searcher).
 | [aspell] | Spellchecking with Aspel.
 | [battery] | Shows battery percentage on infobar.
+| [calc] | Add calc command for calculating math.
 | [capitalizer] | A simple micro-editor plugin that allows to capitalize selected text.
 | [cheat] | F1 cheatsheet for the language you're editing: Python, Go, Lua...
 | [colorschemes] | Colorschemes aggregator.
@@ -70,6 +71,7 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [ag]: https://github.com/sebkolind/micro-ag
 [aspell]: https://github.com/priner/micro-aspell-plugin
 [battery]: https://github.com/dubyte/micro-battery
+[calc]: https://notabug.org/dustdfg/micro-calc
 [capitalizer]: https://github.com/CodeGiorgino/capitalizer
 [cheat]: https://github.com/terokarvinen/micro-cheat
 [colorschemes]: https://codeberg.org/micro-plugins/colorschemes
