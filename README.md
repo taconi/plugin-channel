@@ -52,6 +52,7 @@ Add this repository in `~/.config/micro/settings.json`
 | [microzim] | Basic manipulation of ZIM-Wiki files.
 | [mxc] | The microExecuter. Hit F5 to execute any script from the Micro buffer!
 | [nelua] | Nelua support for Micro text editor.
+| [nix] | nix-linter plugin and syntax.
 | [palettero] | Command palette - Ctrl-P to fuzzy search & run commands, textfilters and descriptions
 | [prettier] | This plugin provides the ability to format your code with Prettier.
 | [preview] | A very simple plugin to preview markdown in a second editor pane using pandoc.
@@ -94,6 +95,7 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [microzim]: https://github.com/ihavenomouth/microzim
 [mxc]: https://github.com/cadnza/mxc
 [nelua]: https://github.com/leapofazzam123/micro-nelua-plugin
+[nix]: https://github.com/vandervoortj/nix-micro-plugin
 [palettero]: https://github.com/terokarvinen/palettero
 [prettier]: https://github.com/sebkolind/micro-prettier
 [preview]: https://github.com/weebi/micro-preview
