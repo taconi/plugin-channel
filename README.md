@@ -61,6 +61,7 @@ Add this repository in `~/.config/micro/settings.json`
 | [selto] | Simple plugin allowing to quickly select lines.
 | [splitterm] | Run a file or a selection of an inerpreted language within a new terminal window.
 | [sunny-day] | Port of the Emacs theme by Martin Haesler.
+| [testaustime] | Testaustime coding activity tracker for micro.
 | [urlopen] | A plugin for the micro text editor to add support for opening URLs in text files.
 | [wakatime] | Metrics, insights, and time tracking automatically generated from your programming activity.
 | [xonsh] | Syntax highlighting for xonsh files.
@@ -104,6 +105,7 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [selto]: https://github.com/PawelMTRK/micro-selto-plugin
 [splitterm]: https://github.com/lukhof/splitterm
 [sunny-day]: https://github.com/dwwmmn/micro-sunny-day
+[testaustime]: https://github.com/testaustime/testaustime-micro
 [urlopen]: https://github.com/pjg11/micro-urlopen
 [wakatime]: https://github.com/wakatime/micro-wakatime
 [xonsh]: https://codeberg.org/micro-plugins/xonsh
