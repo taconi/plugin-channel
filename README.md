@@ -46,6 +46,7 @@ Add this repository in `~/.config/micro/settings.json`
 | [language_ignore] | Adds syntax highlighting to 'ignore' files.
 | [language_kv] | Syntax highlighting for kvlang.
 | [language_log] | Syntax highlighting for files with .log extension.
+| [latexplugin] | Latex plugin for Micro editor. Main aim is to provide synctex support.
 | [lintertypescript] | Ability to lint your Typescript (.ts & .tsx) files with tsc.
 | [manager] | Provides a way to manage linters, formatters, commands, keybindings, settings, plugins.
 | [mdtree] | A plugin for the micro text editor to add sidebar for jumpring and viewing TOC of markdown files.
@@ -91,6 +92,7 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [language_ignore]: https://codeberg.org/micro-plugins/language-ignore
 [language_kv]: https://codeberg.org/micro-plugins/language-kv
 [language_log]: https://codeberg.org/micro-plugins/language-log
+[latexplugin]: https://github.com/chykcha3/micro-plugin-latex
 [lintertypescript]: https://github.com/sebkolind/micro-linter-typescript
 [manager]: https://codeberg.org/micro-plugins/manager
 [mdtree]: https://notabug.org/dustdfg/micro-mdtree
