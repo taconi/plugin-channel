@@ -95,7 +95,7 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [mdtree]: https://notabug.org/dustdfg/micro-mdtree
 [microzim]: https://github.com/ihavenomouth/microzim
 [mxc]: https://github.com/cadnza/mxc
-[nelua]: https://github.com/leapofazzam123/micro-nelua-plugin
+[nelua]: https://github.com/leap0x7b/micro-nelua-plugin
 [nix]: https://github.com/vandervoortj/nix-micro-plugin
 [palettero]: https://github.com/terokarvinen/palettero
 [prettier]: https://github.com/sebkolind/micro-prettier
