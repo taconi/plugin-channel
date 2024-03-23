@@ -24,6 +24,7 @@ Add this repository in `~/.config/micro/settings.json`
 | Name | Description
 |-- | --
 | [acme] | An acme style editing plugin for the micro editor.
+| [align] | Simple plugin to align multiple cursors in micro.
 | [ag] | This plugin provides the ability to search with "ag" (aka the_silver_searcher).
 | [aspell] | Spellchecking with Aspel.
 | [battery] | Shows battery percentage on infobar.
@@ -70,6 +71,7 @@ Add this repository in `~/.config/micro/settings.json`
 Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro-plugins/plugin-channel/src/branch/main/CONTRIBUTING.md).
 
 [acme]: https://github.com/xxuejie/micro-acme
+[align]: https://github.com/mosskjohnson/align-plugin
 [ag]: https://github.com/sebkolind/micro-ag
 [aspell]: https://github.com/priner/micro-aspell-plugin
 [battery]: https://github.com/dubyte/micro-battery
