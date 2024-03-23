@@ -48,6 +48,7 @@ Add this repository in `~/.config/micro/settings.json`
 | [lintertypescript] | Ability to lint your Typescript (.ts & .tsx) files with tsc.
 | [manager] | Provides a way to manage linters, formatters, commands, keybindings, settings, plugins.
 | [mdtree] | A plugin for the micro text editor to add sidebar for jumpring and viewing TOC of markdown files.
+| [microwiki] | Like vimwiki but for micro.
 | [microzim] | Basic manipulation of ZIM-Wiki files.
 | [mxc] | The microExecuter. Hit F5 to execute any script from the Micro buffer!
 | [nelua] | Nelua support for Micro text editor.
@@ -95,6 +96,7 @@ Collaboration is super welcome! See [CONTRIBUTING.md](https://codeberg.org/micro
 [lintertypescript]: https://github.com/sebkolind/micro-linter-typescript
 [manager]: https://codeberg.org/micro-plugins/manager
 [mdtree]: https://notabug.org/dustdfg/micro-mdtree
+[microwiki]: https://github.com/obedm503/microwiki
 [microzim]: https://github.com/ihavenomouth/microzim
 [mxc]: https://github.com/cadnza/mxc
 [nelua]: https://github.com/leap0x7b/micro-nelua-plugin
