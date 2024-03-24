@@ -4,6 +4,10 @@ This repository contains the `channel.json` file which lists all micro plugins. 
 
 #### This is a fork of the [oficial channel](https://github.com/micro-editor/plugin-channel/) and plugins available there will not be listed here
 
+> [!CAUTION]
+>
+> This channel has been discontinued, see [#42](https://github.com/taconi/plugin-channel/issues/42) for more details
+
 > [!Warning]
 >
 > This is just a plugin centralizer, plugin owners can change or add versions with malicious codes, I recommend checking each plugin before installing, use at your own risk
